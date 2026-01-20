@@ -1,6 +1,11 @@
-# projects-
-# Program to calculate average marks of a student
+# Projects
 
+## Program to Calculate Average Marks of a Student
+
+This is a simple Python program that calculates the total and average marks of a student.
+
+## Code
+```python
 marks = list(map(int, input("Enter marks separated by space: ").split()))
 
 total = sum(marks)
